@@ -88,3 +88,4 @@ npm run preview
 ```
 
 El resultado de `npm run build` se genera en `dist/` y puede publicarse en un servicio de alojamiento de archivos estáticos. El comando `preview` se utiliza para comprobar esa compilación en el entorno local.
+test
